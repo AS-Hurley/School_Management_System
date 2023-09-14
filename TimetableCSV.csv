@@ -1,0 +1,39 @@
+Day,Subject,ClassStart,ClassEnd
+Monday,History,09:00,09:40
+Monday,Maths,09:40,10:20
+Monday,Computer Science,10:20,11:00
+Monday,Business Studies,11:15,11:55
+Monday,Technology,11:55,13:15
+Monday,English,14:00,14:40
+Monday,Irish,14:40,15:20
+Monday,Chemistry,15:20,16:00
+Tuesday,PE,09:00,10:20
+Tuesday,RE,10:20,11:00
+Tuesday,English,11:15,11:55
+Tuesday,Irish,11:55,12:35
+Tuesday,Maths,12:35,13:15
+Tuesday,Geography,14:00,14:40
+Tuesday,French,14:40,15:20
+Tuesday,Home Economics,15:20,16:00
+Wednesday,German,09:00,09:40
+Wednesday,Art,09:40,10:20
+Wednesday,Business Studies,10:20,11:00
+Wednesday,Biology,11:15,11:55
+Wednesday,History,11:55,12:35
+Wednesday,Computer Science,12:35,13:15
+Wednesday,Technology,14:00,15:20
+Wednesday,English,15:20,16:00
+Thursday,Home Economics,09:00,09:40
+Thursday,Geography,09:40,10:20
+Thursday,Irish,10:20,11:00
+Thursday,Physics,11:15,11:55
+Thursday,Chemistry,11:55,12:35
+Thursday,Music,12:35,13:15
+Thursday,Computer Science,14:00,15:20
+Thursday,French,15:20,16:00
+Friday,Maths,09:00,09:40
+Friday,English,09:40,10:20
+Friday,Biology,10:20,11:00
+Friday,German,11:15,11:55
+Friday,Home Economics,11:55,12:35
+Friday,History,12:35,13:15

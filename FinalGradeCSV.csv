@@ -1,0 +1,541 @@
+StudentID,Subject,Grade
+1,English,89
+1,Irish,73
+1,French,79
+1,German,76
+1,History,80
+1,Geography,80
+1,Maths,93
+1,Physics,59
+1,Biology,85
+1,Chemistry,65
+1,Technology,94
+1,Computer Science,91
+1,Business Studies,97
+1,RE,88
+1,PE,95
+1,Art,81
+1,Music,72
+1,Home Economics,91
+2,English,85
+2,Irish,79
+2,French,90
+2,German,86
+2,History,97
+2,Geography,75
+2,Maths,79
+2,Physics,70
+2,Biology,85
+2,Chemistry,88
+2,Technology,78
+2,Computer Science,68
+2,Business Studies,80
+2,RE,94
+2,PE,96
+2,Art,68
+2,Music,82
+2,Home Economics,82
+3,English,90
+3,Irish,70
+3,French,95
+3,German,64
+3,History,88
+3,Geography,95
+3,Maths,83
+3,Physics,81
+3,Biology,80
+3,Chemistry,84
+3,Technology,89
+3,Computer Science,92
+3,Business Studies,84
+3,RE,98
+3,PE,79
+3,Art,71
+3,Music,80
+3,Home Economics,91
+4,English,80
+4,Irish,87
+4,French,68
+4,German,72
+4,History,88
+4,Geography,82
+4,Maths,77
+4,Physics,61
+4,Biology,72
+4,Chemistry,65
+4,Technology,79
+4,Computer Science,80
+4,Business Studies,98
+4,RE,100
+4,PE,94
+4,Art,96
+4,Music,98
+4,Home Economics,87
+5,English,79
+5,Irish,96
+5,French,64
+5,German,71
+5,History,91
+5,Geography,98
+5,Maths,72
+5,Physics,77
+5,Biology,65
+5,Chemistry,72
+5,Technology,70
+5,Computer Science,79
+5,Business Studies,87
+5,RE,96
+5,PE,87
+5,Art,86
+5,Music,78
+5,Home Economics,72
+6,English,69
+6,Irish,62
+6,French,86
+6,German,99
+6,History,91
+6,Geography,94
+6,Maths,44
+6,Physics,69
+6,Biology,67
+6,Chemistry,80
+6,Technology,77
+6,Computer Science,81
+6,Business Studies,70
+6,RE,70
+6,PE,100
+6,Art,86
+6,Music,76
+6,Home Economics,89
+7,English,90
+7,Irish,88
+7,French,63
+7,German,42
+7,History,72
+7,Geography,69
+7,Maths,98
+7,Physics,85
+7,Biology,72
+7,Chemistry,89
+7,Technology,95
+7,Computer Science,89
+7,Business Studies,72
+7,RE,88
+7,PE,91
+7,Art,77
+7,Music,72
+7,Home Economics,90
+8,English,98
+8,Irish,95
+8,French,94
+8,German,96
+8,History,90
+8,Geography,91
+8,Maths,88
+8,Physics,77
+8,Biology,72
+8,Chemistry,78
+8,Technology,87
+8,Computer Science,81
+8,Business Studies,91
+8,RE,84
+8,PE,86
+8,Art,83
+8,Music,79
+8,Home Economics,95
+9,English,78
+9,Irish,68
+9,French,65
+9,German,60
+9,History,84
+9,Geography,68
+9,Maths,65
+9,Physics,66
+9,Biology,62
+9,Chemistry,61
+9,Technology,76
+9,Computer Science,67
+9,Business Studies,73
+9,RE,61
+9,PE,71
+9,Art,64
+9,Music,63
+9,Home Economics,59
+10,English,94
+10,Irish,77
+10,French,79
+10,German,88
+10,History,86
+10,Geography,73
+10,Maths,71
+10,Physics,70
+10,Biology,81
+10,Chemistry,72
+10,Technology,93
+10,Computer Science,84
+10,Business Studies,98
+10,RE,82
+10,PE,75
+10,Art,61
+10,Music,98
+10,Home Economics,73
+11,English,61
+11,Irish,93
+11,French,81
+11,German,64
+11,History,66
+11,Geography,89
+11,Maths,62
+11,Physics,72
+11,Biology,70
+11,Chemistry,86
+11,Technology,63
+11,Computer Science,75
+11,Business Studies,75
+11,RE,68
+11,PE,0
+11,Art,90
+11,Music,69
+11,Home Economics,92
+12,English,95
+12,Irish,88
+12,French,87
+12,German,98
+12,History,83
+12,Geography,83
+12,Maths,83
+12,Physics,88
+12,Biology,85
+12,Chemistry,95
+12,Technology,92
+12,Computer Science,93
+12,Business Studies,100
+12,RE,90
+12,PE,93
+12,Art,90
+12,Music,80
+12,Home Economics,81
+13,English,62
+13,Irish,65
+13,French,88
+13,German,91
+13,History,98
+13,Geography,60
+13,Maths,62
+13,Physics,60
+13,Biology,87
+13,Chemistry,80
+13,Technology,92
+13,Computer Science,79
+13,Business Studies,66
+13,RE,90
+13,PE,89
+13,Art,91
+13,Music,69
+13,Home Economics,63
+14,English,98
+14,Irish,91
+14,French,63
+14,German,93
+14,History,81
+14,Geography,76
+14,Maths,85
+14,Physics,76
+14,Biology,98
+14,Chemistry,82
+14,Technology,82
+14,Computer Science,98
+14,Business Studies,84
+14,RE,98
+14,PE,90
+14,Art,79
+14,Music,83
+14,Home Economics,94
+15,English,51
+15,Irish,30
+15,French,43
+15,German,57
+15,History,50
+15,Geography,61
+15,Maths,39
+15,Physics,29
+15,Biology,57
+15,Chemistry,49
+15,Technology,60
+15,Computer Science,40
+15,Business Studies,55
+15,RE,56
+15,PE,60
+15,Art,45
+15,Music,51
+15,Home Economics,46
+16,English,67
+16,Irish,76
+16,French,67
+16,German,68
+16,History,75
+16,Geography,84
+16,Maths,78
+16,Physics,68
+16,Biology,79
+16,Chemistry,77
+16,Technology,86
+16,Computer Science,97
+16,Business Studies,69
+16,RE,72
+16,PE,64
+16,Art,74
+16,Music,65
+16,Home Economics,92
+17,English,93
+17,Irish,78
+17,French,70
+17,German,95
+17,History,95
+17,Geography,75
+17,Maths,72
+17,Physics,64
+17,Biology,77
+17,Chemistry,95
+17,Technology,89
+17,Computer Science,91
+17,Business Studies,96
+17,RE,65
+17,PE,74
+17,Art,66
+17,Music,63
+17,Home Economics,96
+18,English,84
+18,Irish,85
+18,French,72
+18,German,64
+18,History,84
+18,Geography,87
+18,Maths,69
+18,Physics,95
+18,Biology,92
+18,Chemistry,89
+18,Technology,76
+18,Computer Science,87
+18,Business Studies,60
+18,RE,100
+18,PE,68
+18,Art,69
+18,Music,77
+18,Home Economics,92
+19,English,94
+19,Irish,93
+19,French,71
+19,German,90
+19,History,75
+19,Geography,85
+19,Maths,68
+19,Physics,63
+19,Biology,89
+19,Chemistry,75
+19,Technology,79
+19,Computer Science,64
+19,Business Studies,75
+19,RE,91
+19,PE,90
+19,Art,86
+19,Music,75
+19,Home Economics,89
+20,English,71
+20,Irish,74
+20,French,99
+20,German,80
+20,History,86
+20,Geography,81
+20,Maths,72
+20,Physics,74
+20,Biology,94
+20,Chemistry,88
+20,Technology,75
+20,Computer Science,89
+20,Business Studies,84
+20,RE,63
+20,PE,72
+20,Art,89
+20,Music,80
+20,Home Economics,78
+21,English,73
+21,Irish,79
+21,French,85
+21,German,87
+21,History,87
+21,Geography,79
+21,Maths,97
+21,Physics,90
+21,Biology,88
+21,Chemistry,75
+21,Technology,63
+21,Computer Science,99
+21,Business Studies,72
+21,RE,67
+21,PE,64
+21,Art,87
+21,Music,61
+21,Home Economics,68
+22,English,92
+22,Irish,95
+22,French,89
+22,German,77
+22,History,74
+22,Geography,98
+22,Maths,100
+22,Physics,68
+22,Biology,99
+22,Chemistry,80
+22,Technology,88
+22,Computer Science,100
+22,Business Studies,63
+22,RE,83
+22,PE,95
+22,Art,97
+22,Music,68
+22,Home Economics,83
+23,English,95
+23,Irish,97
+23,French,68
+23,German,79
+23,History,87
+23,Geography,69
+23,Maths,67
+23,Physics,61
+23,Biology,84
+23,Chemistry,91
+23,Technology,62
+23,Computer Science,87
+23,Business Studies,80
+23,RE,62
+23,PE,69
+23,Art,89
+23,Music,96
+23,Home Economics,83
+24,English,87
+24,Irish,78
+24,French,72
+24,German,99
+24,History,86
+24,Geography,65
+24,Maths,76
+24,Physics,92
+24,Biology,70
+24,Chemistry,92
+24,Technology,88
+24,Computer Science,64
+24,Business Studies,67
+24,RE,97
+24,PE,83
+24,Art,70
+24,Music,82
+24,Home Economics,74
+25,English,61
+25,Irish,77
+25,French,92
+25,German,88
+25,History,64
+25,Geography,67
+25,Maths,97
+25,Physics,83
+25,Biology,70
+25,Chemistry,82
+25,Technology,74
+25,Computer Science,61
+25,Business Studies,77
+25,RE,92
+25,PE,95
+25,Art,94
+25,Music,90
+25,Home Economics,65
+26,English,72
+26,Irish,90
+26,French,80
+26,German,95
+26,History,80
+26,Geography,86
+26,Maths,84
+26,Physics,79
+26,Biology,91
+26,Chemistry,61
+26,Technology,70
+26,Computer Science,97
+26,Business Studies,74
+26,RE,66
+26,PE,97
+26,Art,100
+26,Music,92
+26,Home Economics,76
+27,English,89
+27,Irish,73
+27,French,74
+27,German,87
+27,History,97
+27,Geography,98
+27,Maths,92
+27,Physics,24
+27,Biology,91
+27,Chemistry,62
+27,Technology,94
+27,Computer Science,75
+27,Business Studies,71
+27,RE,86
+27,PE,65
+27,Art,64
+27,Music,77
+27,Home Economics,78
+28,English,89
+28,Irish,73
+28,French,84
+28,German,90
+28,History,61
+28,Geography,80
+28,Maths,60
+28,Physics,64
+28,Biology,70
+28,Chemistry,79
+28,Technology,77
+28,Computer Science,76
+28,Business Studies,75
+28,RE,65
+28,PE,81
+28,Art,99
+28,Music,69
+28,Home Economics,71
+29,English,62
+29,Irish,80
+29,French,85
+29,German,68
+29,History,77
+29,Geography,84
+29,Maths,81
+29,Physics,75
+29,Biology,65
+29,Chemistry,81
+29,Technology,92
+29,Computer Science,63
+29,Business Studies,75
+29,RE,72
+29,PE,74
+29,Art,96
+29,Music,82
+29,Home Economics,70
+30,English,75
+30,Irish,87
+30,French,84
+30,German,94
+30,History,95
+30,Geography,99
+30,Maths,96
+30,Physics,94
+30,Biology,66
+30,Chemistry,64
+30,Technology,81
+30,Computer Science,64
+30,Business Studies,72
+30,RE,76
+30,PE,94
+30,Art,98
+30,Music,80
+30,Home Economics,60
