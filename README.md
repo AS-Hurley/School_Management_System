@@ -91,27 +91,27 @@ To restore from backup in SSMS:
 
 In the Object Explorer right-click on Databases and select Restore Database
 
-<img width="427" alt="Picture1" src="https://github.com/AS-Hurley/School_Management_System/assets/144287374/89202cc4-5b0e-4b42-a985-69065074493e">
+<img width="427" alt="Picture1" src="https://github.com/AS-Hurley/School_Management_System/assets/144287374/a15ce3fd-d592-4a02-8941-51508cf30b0f">
 
 
 In the Source select Device and click the ellipsis button. In the pop-up box that opens, click Add
 
-<img width="643" alt="Picture2" src="https://github.com/AS-Hurley/School_Management_System/assets/144287374/7d3c370e-220e-41d6-8a5b-2d3ab62c4d4f">
+<img width="643" alt="Picture2" src="https://github.com/AS-Hurley/School_Management_System/assets/144287374/917807d1-6d19-41dd-bc86-daa7c6d95e89">
 
 
 In the pop-up box that opens, select the file 2022-2023_SchoolYear.bak and click OK
 
-<img width="551" alt="Picture3" src="https://github.com/AS-Hurley/School_Management_System/assets/144287374/0fd9531d-eb36-49fb-a97d-726312cc49b3">
+<img width="551" alt="Picture3" src="https://github.com/AS-Hurley/School_Management_System/assets/144287374/b291ab25-2de3-4e30-b23b-27579ad4592c">
 
 
 When your backup path displays in the window, click OK again
 
-<img width="579" alt="Picture4" src="https://github.com/AS-Hurley/School_Management_System/assets/144287374/226daa10-ef6b-4a7d-a65e-ca99c4d60bb7">
+<img width="579" alt="Picture4" src="https://github.com/AS-Hurley/School_Management_System/assets/144287374/e2d07c98-8541-48e6-97bf-0c9e53de665d">
 
 
 Click OK in the last box
 
-<img width="470" alt="Picture5" src="https://github.com/AS-Hurley/School_Management_System/assets/144287374/a28516fa-4266-4586-9d6d-604f00a73199">
+<img width="470" alt="Picture5" src="https://github.com/AS-Hurley/School_Management_System/assets/144287374/0648266c-05bd-4f12-80ca-b7c9743b71a3">
 
 ### Credits
 
