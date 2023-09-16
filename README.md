@@ -35,10 +35,10 @@ The database was kept small as the main objective of the project was to concentr
 
 - **Additional Learning:** To implement certain features of the project successfully, I had to explore online resources to fill knowledge gaps. Some of the resources I found immensely helpful include:
     - Microsoft SQL documentation
-    - W3 Schools, which is agreat resource that makes SQL clearer and more accessible. There I found an explanation of the TIMEDIFF function and clarification on the syntax of ASE expressions, among other things
+    - W3 Schools, which is agreat resource that makes SQL clearer and more accessible. There I found an explanation of the DATEDIFF function and clarification on the syntax of CASE expressions, among other things
     - Stack Overflow, where I got information on installing OLE DB drivers and some clarification on CASE statements with aggregate functions
     - Codeproject, where I found a function that actually works to display time in HH:MM format
-    - Dataquest, for explanation and  examples of window functions
+    - Dataquest, for explanation and examples of window functions
 
 - **Excel Data Import Challenge:** One significant challenge I encountered at the project's outset was inserting values into SQL Server from Excel. My initial plan was to export data as CSV and perform bulk inserts. However, I encountered a hurdle when dealing with Excel sheets containing diacritics, which couldn't be preserved in the export. This led me to:
     - Conduct extensive research
