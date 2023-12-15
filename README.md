@@ -62,7 +62,7 @@ The database was kept small as the main objective of the project was to concentr
 * Using a CASE expression to display students' grade profiles - this allowed me to break down and display the grades as evaluations of ability.
 * Creating a stored procedure with multiple output parameters - this was used to query lesson details so multiple details to be displayed when the input parameter was passed in.
 * Converting a TIME field to display in HH:MM format - This was used to display lesson times, which would have displayed as HH:MM:SS.nnnnnnn by default and made for messy output.
-* Using string concatenation - I used this multiple times during the project to display full names rather than atomised values and am now fully confident on the syntax.
+* Using string concatenation - I used this multiple times during the project to display full names under one column and am now fully confident on the syntax.
 * Using the DATEDIFF function - this was used to calculate lesson duration.      
 * Using window functions to display aggregated and non-aggregated data - this was used to compare each student's grade in each subject to the class average.
 
